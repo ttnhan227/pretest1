@@ -1,0 +1,23 @@
+[
+    {
+      "id": "1",
+      "ID": "STT02",
+      "name": "Ham",
+      "price": "222.2",
+      "stock": "sold"
+    },
+    {
+      "id": "2",
+      "ID": "STT02",
+      "name": "Ham",
+      "price": "222.2",
+      "stock": "sold"
+    },
+    {
+      "id": "3",
+      "ID": "STT02",
+      "name": "Ham",
+      "price": "222.2",
+      "stock": "sold"
+    }
+  ]
